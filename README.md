@@ -18,7 +18,7 @@ Node.js and npm installed on your machine.
 MongoDB installed and running.
 
 ```bash
-  git clone https://github.com/vamsi-31/File-Sharing
+  git clone https://github.com/vamsi-31/FileSharing
 ```
 
 Go to the project directory
